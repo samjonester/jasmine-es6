@@ -1,10 +1,11 @@
 # jasmine-es6
 
-##Starter Project for TDD in ES6
+## Uses jasmine-es6 module
 https://github.com/vinsonchuong/jasmine-es6
 
-##
-1. git clone
-2. npm install
-3. npm test
-4. profit
+## Setup and Run
+```
+npm run setup
+npm test
+```
+
