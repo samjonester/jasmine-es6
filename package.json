@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine"
+		"setup": "npm install",
+    "test": "jasmine JASMINE_CONFIG_PATH=code/support/jasmine.json"
   },
   "author": "",
   "license": "ISC",
