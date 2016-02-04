@@ -1,5 +1,7 @@
 # jasmine-es6
 
+Playground for ES6
+
 ## Uses jasmine-es6 module
 https://github.com/vinsonchuong/jasmine-es6
 
