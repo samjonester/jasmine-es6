@@ -1,10 +1,9 @@
 {
   "scripts": {
 		"setup": "npm install",
-    "test": "node_modules/jasmine-node/bin/jasmine-node code/support"
+    "test": "node_modules/jasmine-es6/bin/jasmine.js"
   },
 	"devDependencies": [
-		"jasmine-node",
 		"jasmine-es6"
 	]
 }
